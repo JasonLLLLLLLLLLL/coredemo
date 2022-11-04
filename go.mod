@@ -1,3 +1,3 @@
-module core
+module coredemo
 
 go 1.15
